@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Logs and outputs - keep only essential final runs
+logs/*.err
+logs/*.audit
+logs/*.eso
+logs/*.mtr
+logs/*.eio
+logs/*.rdd
+logs/*.mdd
+logs/*.mtd
+logs/*.end
+logs/*.bnd
+logs/*.dxf
+logs/*.shd
+logs/eplusout.*
+logs/sqlite.err
+logs/archive*/
+
+# Keep README and final validated run logs
+!logs/README.md
+!logs/ai_controlled_run_20260726_*.json
+!logs/baseline_run_20260726_*.json
+
+# Results - keep final dashboard outputs
+!results/energy_comparison.png
+!results/comfort_analysis.png
+!results/savings_summary.csv
+!results/README.md
+
+# EnergyPlus outputs
+*.audit
+*.bnd
+*.dxf
+*.eio
+*.end
+*.err
+*.eso
+*.mdd
+*.mtd
+*.mtr
+*.rdd
+*.shd
+*.sql
+eplusout.*
+sqlite.err
+eplustbl.htm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+$null
+*.tmp
+*.bak
+
+# Video placeholder (remove when actual video is added)
+poc.mp4.txt
+

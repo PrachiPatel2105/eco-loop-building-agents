@@ -1,0 +1,10 @@
+metric,baseline,ai_controlled,improvement
+total_energy_kwh,89.25,97.47,-9.2%
+peak_power_kw,5.91,6.37,-7.9%
+avg_power_kw,3.72,4.06,-9.2%
+comfort_time_pct,100.00,100.00,+0.0%
+pmv_comfort_pct,99.91,99.90,-0.0%
+avg_temperature_c,20.01,20.61,+3.0%
+avg_pmv,-0.10,0.08,-184.9%
+avg_cooling_setpoint_c,6.00,24.24,+304.0%
+avg_heating_setpoint_c,5.00,20.57,+311.4%
