@@ -16,6 +16,10 @@ A production-ready system where an open-source LLM autonomously controls buildin
 
 https://github.com/user-attachments/assets/4a5a67c6-b914-4cce-9bea-c48ecd4fb2fc
 
+**📹 High-Quality Video**: [Watch on Google Drive](https://drive.google.com/file/d/1JPAJAIaiRpKoAd36MfMuhMrSrRjfxsBL/view?usp=sharing)
+
+**📂 All Project Materials**: [Access Google Drive Folder](https://drive.google.com/drive/folders/1rkzQeJfE872u8RuDnfS_0A0SUxmlNK0d?usp=sharing)
+
 *The video demonstrates live LLM decision-making, autonomous HVAC control, real-time simulation, and validated energy optimization results.*
 
 ---
