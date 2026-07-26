@@ -10,6 +10,16 @@ A production-ready system where an open-source LLM autonomously controls buildin
 
 ---
 
+## 🎥 Video Demonstration
+
+**Watch the complete proof-of-concept demonstration:**
+
+https://github.com/user-attachments/assets/4a5a67c6-b914-4cce-9bea-c48ecd4fb2fc
+
+*The video demonstrates live LLM decision-making, autonomous HVAC control, real-time simulation, and validated energy optimization results.*
+
+---
+
 ## 🎯 Project Overview
 
 This project implements a **genuine closed-loop control system** where:
